@@ -1,0 +1,8 @@
+post http://localhost:8080/api/stream
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW
+
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="text"
+
+###
+get http://localhost:8080/api/
